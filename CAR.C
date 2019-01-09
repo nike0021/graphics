@@ -15,6 +15,7 @@ void main()
 	line(150,250,200,250);
 	line(550,250,500,250);
 	line(240,250,460,250);
+	outtextxy(50,50,"~nike_0021`s car");
 
 
 getch();
