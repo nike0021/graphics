@@ -15,6 +15,7 @@ void main()
 	line(100,350,200,350);
 	rectangle(135,300,165,350);
 	rectangle(250,250,300,275);
+	outtextxy(50,50,"~nike_0021`s home");
 
 getch();
 }
